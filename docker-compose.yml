@@ -1,0 +1,11 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - ADZUNA_APP_ID=${ADZUNA_APP_ID:-}
+      - ADZUNA_APP_KEY=${ADZUNA_APP_KEY:-}
+    volumes: ["jobpilot-data:/data"]
+volumes:
+  jobpilot-data:

@@ -1,0 +1,14 @@
+[
+{"query":"build llm agents with tool calling and rag","relevant":["j06","j16"]},
+{"query":"semantic search and ranking relevance","relevant":["j10","j03","j06"]},
+{"query":"python api backend with postgres","relevant":["j02"]},
+{"query":"browser automation and scraping","relevant":["j20","j11"]},
+{"query":"image and video forensics machine learning","relevant":["j09"]},
+{"query":"kubernetes container deployment","relevant":["j05","j18"]},
+{"query":"evaluate language model output quality","relevant":["j16","j06"]},
+{"query":"recommendation system personalization","relevant":["j03","j10"]},
+{"query":"azure machine learning deployment","relevant":["j18","j01"]},
+{"query":"test automation selenium","relevant":["j11"]},
+{"query":"react frontend web app","relevant":["j04","j12"]},
+{"query":"embedded c++ hardware","relevant":["j19"]}
+]

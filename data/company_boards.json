@@ -1,0 +1,4 @@
+{
+  "greenhouse": ["stripe", "airbnb", "datadog"],
+  "lever": ["palantir"]
+}
